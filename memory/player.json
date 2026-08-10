@@ -1,0 +1,11 @@
+{
+  "name": "Ajisai Hatake",
+  "age": 13,
+  "rank": "Genin",
+  "village": "Konohagakure",
+  "team": "Team 8",
+  "sensei": "Kurenai Yuhi",
+  "location": "Konohagakure",
+  "status": { "health": 100, "chakra": 50 },
+  "currency": { "ryo": 100 }
+}
